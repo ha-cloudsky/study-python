@@ -1,0 +1,6 @@
+shared
+vendor
+*.log
+*.pyc
+__pycache__
+.docker
